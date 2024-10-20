@@ -1,0 +1,4 @@
+Contribution guidelines:
+Rule number 1
+Rule number 2
+Dont ask to assign issues!
